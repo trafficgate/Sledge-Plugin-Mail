@@ -1,0 +1,7 @@
+Changes
+lib/Sledge/Plugin/Mail.pm
+Makefile.PL
+MANIFEST
+MYMETA.json
+MYMETA.yml
+t/.gitkeep
